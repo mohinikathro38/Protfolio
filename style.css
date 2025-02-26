@@ -127,6 +127,18 @@ h2 {
     background-color: #555;
 }
 
+.github-link {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.github-link:hover {
+    color: #000;
+}
+
 form {
     display: flex;
     flex-direction: column;
